@@ -5,7 +5,13 @@
 
 ---
 
-### Languages and Tools:
+### About Me
+
+Junior backend programmer focused on security, lover of self-taught learning and open source especially the linux universe.
+
+---
+
+### Languages and Tools
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 
@@ -23,15 +29,12 @@
 
 ---
 
-<details>
+### Github Stats
 
-<summary>:zap: Github Stats</summary>
-
-![SirNoob97's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirNoob97&count_private=true&show_icons=true&theme=dracula)
-
-![SirNoob97's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirNoob97&hide=vim%20script,tex&theme=dracula&layout=compact)
-
-</details>
+<center>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SirNoob97&count_private=true&show_icons=true&theme=dracula" width="400">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNoob97&hide=vim%20script,tex&theme=dracula&layout=compact" width="400"> 
+</center>
 
 [java]: java
 [spring]: spring
