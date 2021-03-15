@@ -28,10 +28,6 @@
 
 ![SirNoob97's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirNoob97&hide=vim%20script,tex&theme=dracula&layout=compact)
 
-<br/>
-
-### 
-
 [java]: java
 [spring]: spring
 [go]: go
