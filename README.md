@@ -36,9 +36,9 @@ Junior backend programmer focused on security, lover of self-taught learning and
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNoob97&hide=vim%20script,tex&theme=dracula&layout=compact" width="400"> 
 </center>
 
-[java]: java
-[spring]: spring
-[go]: go
-[postgresql]: postgresql
-[docker]: docker
-[kubernetes]: kubernetes
+[java]: #
+[spring]: #
+[go]: #
+[postgresql]: #
+[docker]: #
+[kubernetes]: #
