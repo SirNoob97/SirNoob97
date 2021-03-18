@@ -32,8 +32,8 @@ Junior backend programmer focused on security, lover of self-taught learning and
 ### Github Stats
 
 <center>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SirNoob97&count_private=true&show_icons=true&theme=dracula" width="400">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNoob97&hide=vim%20script,tex&theme=dracula&layout=compact" width="400"> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SirNoob97&count_private=true&show_icons=true&theme=gruvbox" width="400">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNoob97&hide=vim%20script,tex&theme=gruvbox&layout=compact" width="400"> 
 </center>
 
 [java]: #
