@@ -7,7 +7,7 @@
 
 ### About Me
 
-Junior backend programmer focused on security and fan of DevOps culture, lover of self-taught learning and open source especially the linux universe.
+Junior backend developer focused on DevOps culture, lover of self-taught learning and open source, especially the Linux universe.
 
 ---
 
