@@ -31,7 +31,7 @@ Junior backend developer focused on DevOps culture, lover of self-taught learnin
 
 <center>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SirNoob97&count_private=true&show_icons=true&theme=gruvbox" width="47%">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNoob97&hide=vim%20script,tex&theme=gruvbox&layout=compact" width="47%"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNoob97&hide=tex&theme=gruvbox&layout=compact" width="47%"> 
 </center>
 
 [java]: #
