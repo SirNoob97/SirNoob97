@@ -22,9 +22,9 @@ Junior backend developer focused on DevOps culture, lover of self-taught learnin
 
 ### My Trophies
 
-<a href='https://github.com/ryo-ma/github-profile-trophy'>
+<div>
   <img src='https://github-profile-trophy.vercel.app/?username=SirNoob97&column=-1&no-frame=true&theme=gruvbox'>
-</a>
+</div>
 
 ---
 
