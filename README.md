@@ -1,10 +1,3 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning Backend Engineering.
-- 👯 I’m looking to collaborate on OSS projects.
-
----
-
 ### About Me
 
 Junior backend developer focused on DevOps culture, lover of self-taught learning and open source, especially the Linux universe.
@@ -27,12 +20,20 @@ Junior backend developer focused on DevOps culture, lover of self-taught learnin
 
 ---
 
+### My Trophies
+
+<a href='https://github.com/ryo-ma/github-profile-trophy'>
+  <img src='https://github-profile-trophy.vercel.app/?username=SirNoob97&column=-1&no-frame=true&theme=gruvbox'>
+</a>
+
+---
+
 ### Github Stats
 
-<center>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SirNoob97&count_private=true&show_icons=true&theme=gruvbox" width="47%">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNoob97&hide=tex&theme=gruvbox&layout=compact" width="47%"> 
-</center>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SirNoob97&count_private=true&show_icons=true&theme=gruvbox" width="47%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirNoob97&hide=tex&theme=gruvbox&layout=compact" width="47%"> 
+</div>
 
 [java]: #
 [spring]: #
