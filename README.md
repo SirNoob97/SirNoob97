@@ -9,6 +9,9 @@ Junior backend developer focused on DevOps culture, lover of self-taught learnin
   <a href="https://www.kernel.org/" target="_blank">
     <img alt="Tux" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /> 
   </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img alt="Shell/Bash" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+  </a>
   <a href="https://www.java.com/en/" target="_blank">
     <img alt="Java" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   </a>
@@ -20,9 +23,6 @@ Junior backend developer focused on DevOps culture, lover of self-taught learnin
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img alt="PostgreSQL" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell/Bash" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img alt="Docker" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
